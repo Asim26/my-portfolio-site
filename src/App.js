@@ -10,7 +10,7 @@ function App() {
       <div className="page">
         <nav id="colorlib-main-nav" role="navigation">
           <a
-            href="#"
+            href=""
             className="js-colorlib-nav-toggle colorlib-nav-toggle active"
           >
             <i />
@@ -522,8 +522,6 @@ function App() {
                     </div>
                     <div className="media-body">
                       <h3 className="heading">REACT JS</h3>
-                      <h3 className="heading" />
-                      <h3 className="heading" />
                     </div>
                   </div>
                 </div>
@@ -533,9 +531,7 @@ function App() {
                       <span className="icon-gears" />
                     </div>
                     <div className="media-body">
-                      <h3 className="heading">JAVASCRIPT</h3>
-                      <h3 className="heading" />
-                      <h3 className="heading" />
+                      <h3 className="heading">JAVASCRIPT</h3>               
                     </div>
                   </div>
                 </div>
@@ -546,8 +542,6 @@ function App() {
                     </div>
                     <div className="media-body">
                       <h3 className="heading">WORDPRESS</h3>
-                      <h3 className="heading" />
-                      <h3 className="heading" />
                     </div>
                   </div>
                 </div>
@@ -654,9 +648,10 @@ function App() {
                 <div className="col-md-7 text-center heading-section ftco-animate">
                   <span>Portfolio</span>
                   <h2>What Our Clients Says</h2>
-                  <video controls="controls" src="video/video_testimonial_fiverr.MP4" type="video/mp4" width="600px" height="300px" class="video-p">
+                    <video controls="controls" src="video/video_testimonial_fiverr.MP4" type="video/mp4" width="600px" height="300px" class="video-p">
                     Your browser does not support the HTML5 Video element.
-                  </video>                  
+                  </video>
+                  
                 </div>
               </div>
               <div className="row d-flex justify-content-start">
